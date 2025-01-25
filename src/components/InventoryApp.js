@@ -41,7 +41,6 @@ function InventoryApp() {
     <div className="container mt-5">
       <h1 className="text-center mb-4">Inventory Management App</h1>
 
-      {/* Add New Item Form */}
       <div className="card mb-4">
         <div className="card-header bg-primary text-white">Add New Item</div>
         <div className="card-body">
@@ -80,7 +79,6 @@ function InventoryApp() {
         </div>
       </div>
 
-      {/* Inventory Table */}
       <div className="card">
         <div className="card-header d-flex justify-content-between align-items-center">
           <span>Inventory</span>
