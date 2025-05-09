@@ -1,4 +1,4 @@
-# 🧾 Inventory Management App
+# 🧾 Inventory Management App 
 
 A simple and interactive React application to manage inventory items. Built using functional components, the `useState` hook, and styled with Bootstrap, this app lets users **add**, **edit**, **filter**, **sort**, and **delete** items from an inventory list.
 
